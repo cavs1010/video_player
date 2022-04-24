@@ -1,5 +1,5 @@
 # 🎬Video Player - React implementation<br>
-[Objective](#objective_h) | [languajes](#languajes_h) | [Status](#status_h) | [Acknowledge](#acknowledge_h) 
+[Objective](#objective_h) | [languages](#languages_h) | [Status](#status_h) | [Acknowledge](#acknowledge_h) 
 
 <link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
 
@@ -9,7 +9,7 @@
 <p>Use stateful and stateless  React components</p>
 
 
-<h2>Languajes and tools<a name="languajes_h"></a></h2>
+<h2>Languages and tools<a name="languajes_h"></a></h2>
 <p></p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png" alt="React" width="50" height="40"/> </a>
